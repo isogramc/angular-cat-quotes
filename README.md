@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
-The brief: Create an Single Page Application that fetches a list of dogs from an API endpoint and displays it in a nice looking list using up-to-date common frontend practices.
+The brief: Create an Single Page Application that fetches a list of cats from an API endpoint and displays it in a nice looking list using up-to-date common frontend practices.
 
 *You may use any 3rd party library.
 
