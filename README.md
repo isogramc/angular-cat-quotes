@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
+The brief: Create an Single Page Application that fetches a list of cats from an API endpoint and displays it in a nice looking list using up-to-date common frontend practices.
+
+*You may use any 3rd party library.
+
+Details
+Use the following public API to get JSON formatted data:
+
+Base URL for all endpoints URL: https://cat-fact.herokuapp.com
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
