@@ -1,0 +1,25 @@
+ul li {
+  list-style: none;
+  position: relative;
+  padding: 25px;
+}
+
+ul.card > li + li {
+  margin-top: 10px;
+}
+
+ul.card > li {
+  border-bottom: 1px red solid;
+}
+
+li.heart::before {
+  content: "\2764";
+  position: absolute;
+  left: 2px;
+  top: 5px;
+  width: 3px;
+  height: 6px;
+  border: solid #f9dd94;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
